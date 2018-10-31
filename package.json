@@ -32,9 +32,7 @@
     "eslint-plugin-import": "^2.2.0"
   },
   "dependencies": {
+    "expo": "^30.0.2",
     "request": "^2.81.0"
-  },
-  "peerDependencies": {
-    "exp": ">= 48"
   }
 }
